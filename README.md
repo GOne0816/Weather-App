@@ -1,4 +1,5 @@
 Weather App 🌦️
+
 A modern, responsive weather application built with React and Tailwind CSS.
 This app allows users to search for any city and view the current weather conditions along with a 48-hour hourly forecast.
 Features include:
